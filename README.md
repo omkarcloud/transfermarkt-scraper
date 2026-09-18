@@ -156,9 +156,9 @@ All 51 endpoints are now live at `http://localhost:8000`.
 
 The same API is published on RapidAPI, and its playground is the easiest place to try parameters and see raw responses. Once a request looks right, run it locally for **unlimited free** data.
 
-1. [Subscribe to the free plan](https://rapidapi.com/Chetan11dev/api/transfermarkt-scraper/pricing) — 1,000 calls/month, no credit card.
-2. [Try the endpoints in the playground](https://rapidapi.com/Chetan11dev/api/transfermarkt-scraper/playground) — every param is pre-filled, so you see real data in one click.
-3. Copy the generated code and replace `https://transfermarkt-scraper.p.rapidapi.com` with `http://localhost:8000`. It will now run against your local API.
+1. [Subscribe to the free plan](https://rapidapi.com/OmkarCloud/api/transfermarkt-scraper-free-1000-calls/pricing) — 1,000 calls/month, no credit card.
+2. [Try the endpoints in the playground](https://rapidapi.com/OmkarCloud/api/transfermarkt-scraper-free-1000-calls/playground) — every param is pre-filled, so you see real data in one click.
+3. Copy the generated code and replace `https://transfermarkt-scraper-free-1000-calls.p.rapidapi.com` with `http://localhost:8000`. It will now run against your local API.
 
 ```python
 import requests
