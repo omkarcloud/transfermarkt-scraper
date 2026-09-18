@@ -1,0 +1,6391 @@
+{
+"countries": [
+{
+"id": 1,
+"name": "Afghanistan",
+"code": "AFG",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 2,
+"name": "Egypt",
+"code": "EGY",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 3,
+"name": "Albania",
+"code": "ALB",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 4,
+"name": "Algeria",
+"code": "ALG",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 5,
+"name": "Andorra",
+"code": "AND",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 6,
+"name": "Angola",
+"code": "ANG",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 7,
+"name": "Antigua and Barbuda",
+"code": "ATG",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 8,
+"name": "Equatorial Guinea",
+"code": "EQG",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 9,
+"name": "Argentina",
+"code": "ARG",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 10,
+"name": "Armenia",
+"code": "ARM",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 11,
+"name": "Ethiopia",
+"code": "ETH",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 12,
+"name": "Australia",
+"code": "AUS",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 13,
+"name": "Azerbaijan",
+"code": "AZE",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 14,
+"name": "Bahamas",
+"code": "BAH",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 15,
+"name": "Bahrain",
+"code": "BHR",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 16,
+"name": "Bangladesh",
+"code": "BAN",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 17,
+"name": "Barbados",
+"code": "BRB",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 18,
+"name": "Belarus",
+"code": "BLR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 19,
+"name": "Belgium",
+"code": "BEL",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 20,
+"name": "Belize",
+"code": "BLZ",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 21,
+"name": "Benin",
+"code": "BEN",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 22,
+"name": "Bhutan",
+"code": "BHU",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 23,
+"name": "Bolivia",
+"code": "BOL",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 24,
+"name": "Bosnia-Herzegovina",
+"code": "BIH",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 25,
+"name": "Botswana",
+"code": "BOT",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 26,
+"name": "Brazil",
+"code": "BRA",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 27,
+"name": "Brunei Darussalam",
+"code": "BRU",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 28,
+"name": "Bulgaria",
+"code": "BUL",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 29,
+"name": "Burkina Faso",
+"code": "BFA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 30,
+"name": "Burundi",
+"code": "BDI",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 31,
+"name": "Cameroon",
+"code": "CMR",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 32,
+"name": "Cape Verde",
+"code": "CPV",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 33,
+"name": "Chile",
+"code": "CHI",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 34,
+"name": "China",
+"code": "CHN",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 35,
+"name": "Comoros",
+"code": "COM",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 36,
+"name": "Costa Rica",
+"code": "CRC",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 37,
+"name": "Croatia",
+"code": "CRO",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 38,
+"name": "Cote d'Ivoire",
+"code": "CIV",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 39,
+"name": "Denmark",
+"code": "DEN",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 40,
+"name": "Germany",
+"code": "GER",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 41,
+"name": "Djibouti",
+"code": "DJI",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 42,
+"name": "Dominica",
+"code": "DMA",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 43,
+"name": "Dominican Republic",
+"code": "DOM",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 44,
+"name": "Ecuador",
+"code": "ECU",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 45,
+"name": "El Salvador",
+"code": "SLV",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 46,
+"name": "Eritrea",
+"code": "ERI",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 47,
+"name": "Estonia",
+"code": "EST",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 48,
+"name": "Fiji",
+"code": "FIJ",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 49,
+"name": "Finland",
+"code": "FIN",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 50,
+"name": "France",
+"code": "FRA",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 51,
+"name": "Gabon",
+"code": "GAB",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 52,
+"name": "The Gambia",
+"code": "GAM",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 53,
+"name": "Georgia",
+"code": "GEO",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 54,
+"name": "Ghana",
+"code": "GHA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 55,
+"name": "Grenada",
+"code": "GRN",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 56,
+"name": "Greece",
+"code": "GRE",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 58,
+"name": "Guatemala",
+"code": "GUA",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 59,
+"name": "Guinea",
+"code": "GUI",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 60,
+"name": "Guinea-Bissau",
+"code": "GNB",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 61,
+"name": "Guyana",
+"code": "GUY",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 62,
+"name": "Haiti",
+"code": "HAI",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 66,
+"name": "Honduras",
+"code": "HON",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 67,
+"name": "India",
+"code": "IND",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 68,
+"name": "Indonesia",
+"code": "IDN",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 69,
+"name": "Solomon Islands",
+"code": "SOL",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 70,
+"name": "Iraq",
+"code": "IRQ",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 71,
+"name": "Iran",
+"code": "IRN",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 72,
+"name": "Ireland",
+"code": "IRL",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 73,
+"name": "Iceland",
+"code": "ISL",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 74,
+"name": "Israel",
+"code": "ISR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 75,
+"name": "Italy",
+"code": "ITA",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 76,
+"name": "Jamaica",
+"code": "JAM",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 77,
+"name": "Japan",
+"code": "JPN",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 78,
+"name": "Jordan",
+"code": "JOR",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 79,
+"name": "Cambodia",
+"code": "CAM",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 80,
+"name": "Canada",
+"code": "CAN",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 81,
+"name": "Kazakhstan",
+"code": "KAZ",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 82,
+"name": "Kenya",
+"code": "KEN",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 83,
+"name": "Colombia",
+"code": "COL",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 85,
+"name": "Congo",
+"code": "CGO",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 86,
+"name": "Korea, North",
+"code": "PRK",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 87,
+"name": "Korea, South",
+"code": "KOR",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 88,
+"name": "Cuba",
+"code": "CUB",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 89,
+"name": "Kuwait",
+"code": "KUW",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 90,
+"name": "Kyrgyzstan",
+"code": "KGZ",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 91,
+"name": "Laos",
+"code": "LAO",
+"confederation_id": 0,
+"is_historical": false
+},
+{
+"id": 92,
+"name": "Latvia",
+"code": "LVA",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 93,
+"name": "Lesotho",
+"code": "LES",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 94,
+"name": "Lebanon",
+"code": "LBN",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 95,
+"name": "Liberia",
+"code": "LBR",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 96,
+"name": "Libya",
+"code": "LBY",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 97,
+"name": "Liechtenstein",
+"code": "LIE",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 98,
+"name": "Lithuania",
+"code": "LTU",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 99,
+"name": "Luxembourg",
+"code": "LUX",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 100,
+"name": "North Macedonia",
+"code": "MKD",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 101,
+"name": "Madagascar",
+"code": "MAD",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 102,
+"name": "Malawi",
+"code": "MWI",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 103,
+"name": "Malaysia",
+"code": "MAS",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 104,
+"name": "Maldives",
+"code": "MDV",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 105,
+"name": "Mali",
+"code": "MLI",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 106,
+"name": "Malta",
+"code": "MLT",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 107,
+"name": "Morocco",
+"code": "MAR",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 108,
+"name": "Mauritania",
+"code": "MTN",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 109,
+"name": "Mauritius",
+"code": "MRI",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 110,
+"name": "Mexico",
+"code": "MEX",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 111,
+"name": "Federated States of Micronesia",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 112,
+"name": "Moldova",
+"code": "MDA",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 113,
+"name": "Monaco",
+"code": null,
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 114,
+"name": "Mongolia",
+"code": "MNG",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 115,
+"name": "Mozambique",
+"code": "MOZ",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 116,
+"name": "Myanmar",
+"code": "MYA",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 117,
+"name": "Namibia",
+"code": "NAM",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 118,
+"name": "Nauru",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 119,
+"name": "Nepal",
+"code": "NEP",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 120,
+"name": "New Zealand",
+"code": "NZL",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 121,
+"name": "Nicaragua",
+"code": "NCA",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 122,
+"name": "Netherlands",
+"code": "NED",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 123,
+"name": "Niger",
+"code": "NIG",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 124,
+"name": "Nigeria",
+"code": "NGA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 125,
+"name": "Norway",
+"code": "NOR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 126,
+"name": "Oman",
+"code": "OMA",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 127,
+"name": "Austria",
+"code": "AUT",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 128,
+"name": "Pakistan",
+"code": "PAK",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 129,
+"name": "Palau",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 130,
+"name": "Panama",
+"code": "PAN",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 131,
+"name": "Papua New Guinea",
+"code": "PNG",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 132,
+"name": "Paraguay",
+"code": "PAR",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 133,
+"name": "Peru",
+"code": "PER",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 134,
+"name": "Philippines",
+"code": "PHI",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 135,
+"name": "Poland",
+"code": "POL",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 136,
+"name": "Portugal",
+"code": "POR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 137,
+"name": "Qatar",
+"code": "QAT",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 138,
+"name": "Central African Republic",
+"code": "CTA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 139,
+"name": "Rwanda",
+"code": "RWA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 140,
+"name": "Romania",
+"code": "ROU",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 141,
+"name": "Russia",
+"code": "RUS",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 142,
+"name": "Zambia",
+"code": "ZAM",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 143,
+"name": "Samoa",
+"code": "SAM",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 144,
+"name": "San Marino",
+"code": "SMR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 145,
+"name": "Sao Tome and Principe",
+"code": "STP",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 146,
+"name": "Saudi Arabia",
+"code": "KSA",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 147,
+"name": "Sweden",
+"code": "SWE",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 148,
+"name": "Switzerland",
+"code": "SUI",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 149,
+"name": "Senegal",
+"code": "SEN",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 150,
+"name": "Serbia and Montenegro",
+"code": "SCG",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 151,
+"name": "Seychelles",
+"code": "SEY",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 152,
+"name": "Sierra Leone",
+"code": "SLE",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 153,
+"name": "Singapore",
+"code": "SGP",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 154,
+"name": "Slovakia",
+"code": "SVK",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 155,
+"name": "Slovenia",
+"code": "SVN",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 156,
+"name": "Somalia",
+"code": "SOM",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 157,
+"name": "Spain",
+"code": "ESP",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 158,
+"name": "Sri Lanka",
+"code": "SRI",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 159,
+"name": "South Africa",
+"code": "RSA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 160,
+"name": "Sudan",
+"code": "SDN",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 161,
+"name": "Suriname",
+"code": "SUR",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 162,
+"name": "Eswatini",
+"code": "SWZ",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 163,
+"name": "Syria",
+"code": "SYR",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 164,
+"name": "Chinese Taipei",
+"code": "TPE",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 165,
+"name": "Tajikistan",
+"code": "TJK",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 166,
+"name": "Tanzania",
+"code": "TAN",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 167,
+"name": "Thailand",
+"code": "THA",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 168,
+"name": "Togo",
+"code": "TOG",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 169,
+"name": "Tonga",
+"code": "TGA",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 170,
+"name": "Trinidad and Tobago",
+"code": "TRI",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 171,
+"name": "Chad",
+"code": "CHA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 172,
+"name": "Czech Republic",
+"code": "CZE",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 173,
+"name": "Tunisia",
+"code": "TUN",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 174,
+"name": "Türkiye",
+"code": "TUR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 175,
+"name": "Turkmenistan",
+"code": "TKM",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 176,
+"name": "Uganda",
+"code": "UGA",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 177,
+"name": "Ukraine",
+"code": "UKR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 178,
+"name": "Hungary",
+"code": "HUN",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 179,
+"name": "Uruguay",
+"code": "URU",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 180,
+"name": "Uzbekistan",
+"code": "UZB",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 181,
+"name": "Vanuatu",
+"code": "VAN",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 182,
+"name": "Venezuela",
+"code": "VEN",
+"confederation_id": 4,
+"is_historical": false
+},
+{
+"id": 183,
+"name": "United Arab Emirates",
+"code": "UAE",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 184,
+"name": "United States",
+"code": "USA",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 185,
+"name": "Vietnam",
+"code": "VIE",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 186,
+"name": "Yemen",
+"code": "YEM",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 187,
+"name": "Zimbabwe",
+"code": "ZIM",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 188,
+"name": "Cyprus",
+"code": "CYP",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 189,
+"name": "England",
+"code": "ENG",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 190,
+"name": "Scotland",
+"code": "SCO",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 191,
+"name": "Wales",
+"code": "WAL",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 192,
+"name": "Northern Ireland",
+"code": "NIR",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 193,
+"name": "DR Congo",
+"code": "COD",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 207,
+"name": "Martinique",
+"code": null,
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 208,
+"name": "Faroe Islands",
+"code": "FRO",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 211,
+"name": "Bermuda",
+"code": "BER",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 215,
+"name": "Serbia",
+"code": "SRB",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 216,
+"name": "Montenegro",
+"code": "MNE",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 218,
+"name": "Hongkong",
+"code": "HKG",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 219,
+"name": "Macao",
+"code": "MAC",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 220,
+"name": "CSSR",
+"code": "TCH",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 221,
+"name": "UdSSR",
+"code": "URS",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 222,
+"name": "East Germany (GDR)",
+"code": "GDR",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 223,
+"name": "Jugoslawien (SFR)",
+"code": "YUG",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 224,
+"name": "St. Vincent & Grenadinen",
+"code": "VIN",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 225,
+"name": "St. Kitts & Nevis",
+"code": "SKN",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 226,
+"name": "Turks- and Caicosinseln",
+"code": "TCA",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 227,
+"name": "Netherlands Antilles",
+"code": "ANT",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 228,
+"name": "Puerto Rico",
+"code": "PUR",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 229,
+"name": "Cayman Islands",
+"code": "CAY",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 230,
+"name": "St. Lucia",
+"code": "LCA",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 231,
+"name": "British Virgin Islands",
+"code": "VGB",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 232,
+"name": "Anguilla",
+"code": "AIA",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 233,
+"name": "Aruba",
+"code": "ARU",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 234,
+"name": "American Virgin Islands",
+"code": "VIR",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 235,
+"name": "Montserrat",
+"code": "MSR",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 236,
+"name": "New Caledonia",
+"code": "NCL",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 237,
+"name": "Tahiti",
+"code": "TAH",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 238,
+"name": "Cookinseln",
+"code": "COK",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 239,
+"name": "American Samoa",
+"code": "ASA",
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 240,
+"name": "Palestine",
+"code": "PLE",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 241,
+"name": "Guam",
+"code": "GUM",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 242,
+"name": "Timor-Leste",
+"code": "TLS",
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 243,
+"name": "Greenland",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 244,
+"name": "Kosovo",
+"code": "KOS",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 246,
+"name": "Kiribati",
+"code": null,
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 247,
+"name": "Tuvalu",
+"code": null,
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 248,
+"name": "Christmas Island",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 249,
+"name": "Réunion",
+"code": null,
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 250,
+"name": "Falkland Islands",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 251,
+"name": "Guadeloupe",
+"code": null,
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 252,
+"name": "French Guiana",
+"code": null,
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 253,
+"name": "Zanzibar",
+"code": null,
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 254,
+"name": "Zaire",
+"code": "ZAI",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 255,
+"name": "Netherlands East India",
+"code": "DEI",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 256,
+"name": "Vatican",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 257,
+"name": "Marshall Islands",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 258,
+"name": "Yugoslavia (Republic)",
+"code": "YUG",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 259,
+"name": "People's republic of the Congo",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 260,
+"name": "Curacao",
+"code": "CUW",
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 261,
+"name": "Niue",
+"code": null,
+"confederation_id": 5,
+"is_historical": false
+},
+{
+"id": 262,
+"name": "Southern Sudan",
+"code": "SSD",
+"confederation_id": 2,
+"is_historical": false
+},
+{
+"id": 263,
+"name": "Saarland",
+"code": "SAA",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 264,
+"name": "United Kingdom",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 265,
+"name": "Sint Maarten",
+"code": null,
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 266,
+"name": "Gibraltar",
+"code": "GIB",
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 267,
+"name": "Saint-Martin",
+"code": null,
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 268,
+"name": "Northern Mariana Islands",
+"code": null,
+"confederation_id": 1,
+"is_historical": false
+},
+{
+"id": 269,
+"name": "Bonaire",
+"code": null,
+"confederation_id": 3,
+"is_historical": false
+},
+{
+"id": 270,
+"name": "Isle of Man",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 271,
+"name": "Guernsey",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 272,
+"name": "Jersey",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 273,
+"name": "Swaziland",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 274,
+"name": "Macedonia",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 275,
+"name": "Western Sahara",
+"code": null,
+"confederation_id": 9,
+"is_historical": false
+},
+{
+"id": 276,
+"name": "British India",
+"code": "BIN",
+"confederation_id": 8,
+"is_historical": false
+},
+{
+"id": 277,
+"name": "Mayotte",
+"code": null,
+"confederation_id": 0,
+"is_historical": false
+},
+{
+"id": 278,
+"name": "Crimea",
+"code": null,
+"confederation_id": 6,
+"is_historical": false
+},
+{
+"id": 279,
+"name": "Mandate for Palestine",
+"code": null,
+"confederation_id": 8,
+"is_historical": false
+}
+],
+"confederations": [
+{
+"id": 1,
+"name": "AFC",
+"official_name": "Asian Football Confederation"
+},
+{
+"id": 2,
+"name": "CAF",
+"official_name": "Confédération Africaine de Football"
+},
+{
+"id": 3,
+"name": "CONCACAF",
+"official_name": "Confederation of North, Central American and Caribbean Association Football"
+},
+{
+"id": 4,
+"name": "South American Football Confederation",
+"official_name": "Confederación Sudamericana de Fútbol"
+},
+{
+"id": 5,
+"name": "OFC",
+"official_name": "Oceania Football Confederation"
+},
+{
+"id": 6,
+"name": "UEFA",
+"official_name": "Union des Associations Européennes de Football"
+},
+{
+"id": 7,
+"name": "FIFA",
+"official_name": "Fédération Internationale de Football Association"
+},
+{
+"id": 8,
+"name": "previous teams",
+"official_name": "frühere Teams"
+},
+{
+"id": 9,
+"name": "Non-FIFA members",
+"official_name": "Nicht-FIFA-Mitglieder"
+}
+],
+"positions": [
+{
+"id": 1,
+"name": "Goalkeeper",
+"short_name": "GK",
+"group": "Goalkeeper"
+},
+{
+"id": 2,
+"name": "Sweeper",
+"short_name": "SW",
+"group": "Defender"
+},
+{
+"id": 3,
+"name": "Centre-Back",
+"short_name": "CB",
+"group": "Defender"
+},
+{
+"id": 4,
+"name": "Left-Back",
+"short_name": "LB",
+"group": "Defender"
+},
+{
+"id": 5,
+"name": "Right-Back",
+"short_name": "RB",
+"group": "Defender"
+},
+{
+"id": 6,
+"name": "Defensive Midfield",
+"short_name": "DM",
+"group": "Midfielder"
+},
+{
+"id": 7,
+"name": "Central Midfield",
+"short_name": "CM",
+"group": "Midfielder"
+},
+{
+"id": 8,
+"name": "Right Midfield",
+"short_name": "RM",
+"group": "Midfielder"
+},
+{
+"id": 9,
+"name": "Left Midfield",
+"short_name": "LM",
+"group": "Midfielder"
+},
+{
+"id": 10,
+"name": "Attacking Midfield",
+"short_name": "AM",
+"group": "Midfielder"
+},
+{
+"id": 11,
+"name": "Left Winger",
+"short_name": "LW",
+"group": "Striker"
+},
+{
+"id": 12,
+"name": "Right Winger",
+"short_name": "RW",
+"group": "Striker"
+},
+{
+"id": 13,
+"name": "Second Striker",
+"short_name": "SS",
+"group": "Striker"
+},
+{
+"id": 14,
+"name": "Centre-Forward",
+"short_name": "CF",
+"group": "Striker"
+}
+],
+"competition_types": [
+{
+"id": 1,
+"name": "First Tier"
+},
+{
+"id": 2,
+"name": "Second Tier"
+},
+{
+"id": 3,
+"name": "Third Tier"
+},
+{
+"id": 4,
+"name": "Fourth Tier"
+},
+{
+"id": 5,
+"name": "Fifth Tier"
+},
+{
+"id": 6,
+"name": "Sixth Tier"
+},
+{
+"id": 7,
+"name": "Youth league"
+},
+{
+"id": 8,
+"name": "Domestic Cup"
+},
+{
+"id": 9,
+"name": "Domestic Super Cup"
+},
+{
+"id": 10,
+"name": "International Cup"
+},
+{
+"id": 11,
+"name": "National Team"
+},
+{
+"id": 12,
+"name": "Play-Offs"
+},
+{
+"id": 13,
+"name": "International Super Cup"
+},
+{
+"id": 14,
+"name": "League Cup"
+},
+{
+"id": 15,
+"name": "Domestic Youth Cup"
+},
+{
+"id": 16,
+"name": "International Youth Cup"
+},
+{
+"id": 17,
+"name": "National youth team"
+},
+{
+"id": 18,
+"name": "Reserve league"
+},
+{
+"id": 19,
+"name": "National team's qualifiers"
+},
+{
+"id": 20,
+"name": "Youth National Team Qualifiers"
+},
+{
+"id": 21,
+"name": "Further Cup"
+},
+{
+"id": 22,
+"name": "Further Super Cup"
+},
+{
+"id": 23,
+"name": "National Youth Super Cup"
+},
+{
+"id": 24,
+"name": "Regional Championship"
+}
+],
+"tactics": [
+{
+"id": 1,
+"name": "?"
+},
+{
+"id": 2,
+"name": "4-4-2 Diamond"
+},
+{
+"id": 3,
+"name": "4-3-3 Defending"
+},
+{
+"id": 4,
+"name": "4-4-2 double 6"
+},
+{
+"id": 5,
+"name": "4-5-1"
+},
+{
+"id": 6,
+"name": "5-3-2"
+},
+{
+"id": 7,
+"name": "5-4-1 Diamond"
+},
+{
+"id": 8,
+"name": "3-4-3 Diamond"
+},
+{
+"id": 9,
+"name": "3-5-2"
+},
+{
+"id": 10,
+"name": "4-3-3 Attacking"
+},
+{
+"id": 11,
+"name": "4-4-2"
+},
+{
+"id": 12,
+"name": "3-1-4-2"
+},
+{
+"id": 13,
+"name": "3-4-2-1"
+},
+{
+"id": 14,
+"name": "4-1-4-1"
+},
+{
+"id": 15,
+"name": "3-5-2 Attacking"
+},
+{
+"id": 16,
+"name": "4-2-3-1"
+},
+{
+"id": 17,
+"name": "3-3-3-1"
+},
+{
+"id": 18,
+"name": "4-3-2-1"
+},
+{
+"id": 19,
+"name": "4-1-3-2"
+},
+{
+"id": 20,
+"name": "4-3-1-2"
+},
+{
+"id": 21,
+"name": "5-4-1"
+},
+{
+"id": 22,
+"name": "4-5-1 flat"
+},
+{
+"id": 23,
+"name": "4-4-1-1"
+},
+{
+"id": 24,
+"name": "3-4-3"
+},
+{
+"id": 25,
+"name": "4-3-3 Sweeper"
+},
+{
+"id": 26,
+"name": "3-5-2 flat"
+},
+{
+"id": 27,
+"name": "4-4-2 Sweeper"
+},
+{
+"id": 28,
+"name": "4-4-2 Sweeper Diamond"
+},
+{
+"id": 29,
+"name": "3-4-1-2"
+}
+],
+"roles": [
+{
+"id": 1,
+"name": "Manager"
+},
+{
+"id": 2,
+"name": "Assistant Manager"
+},
+{
+"id": 3,
+"name": "Goalkeeping Coach"
+},
+{
+"id": 5,
+"name": "Team Manager"
+},
+{
+"id": 6,
+"name": "Player-Coach"
+},
+{
+"id": 7,
+"name": "Scout"
+},
+{
+"id": 9,
+"name": "Team official"
+},
+{
+"id": 10,
+"name": "Caretaker Manager"
+},
+{
+"id": 11,
+"name": "Conditioning Coach"
+},
+{
+"id": 12,
+"name": "Physiotherapist"
+},
+{
+"id": 13,
+"name": "Director of Football"
+},
+{
+"id": 14,
+"name": "Translator"
+},
+{
+"id": 15,
+"name": "Goal keeper coach"
+},
+{
+"id": 16,
+"name": "Chief Analyst"
+},
+{
+"id": 17,
+"name": "President"
+},
+{
+"id": 18,
+"name": "Manager"
+},
+{
+"id": 19,
+"name": "Club Doctor"
+},
+{
+"id": 20,
+"name": "Kit Manager"
+},
+{
+"id": 21,
+"name": "Chairman of the Supervisory Board "
+},
+{
+"id": 22,
+"name": "Fitness coach"
+},
+{
+"id": 23,
+"name": "Rehab coach"
+},
+{
+"id": 24,
+"name": "Head of media"
+},
+{
+"id": 25,
+"name": "Chief Executive Officer"
+},
+{
+"id": 26,
+"name": "Supporter Liaison Officer "
+},
+{
+"id": 27,
+"name": "Vice-President"
+},
+{
+"id": 28,
+"name": "Chairman"
+},
+{
+"id": 29,
+"name": "Member of the supervisory board"
+},
+{
+"id": 30,
+"name": "Treasurer"
+},
+{
+"id": 31,
+"name": "Press officer"
+},
+{
+"id": 32,
+"name": "Bus driver"
+},
+{
+"id": 33,
+"name": "Head of Marketing"
+},
+{
+"id": 34,
+"name": "Stadium Announcer"
+},
+{
+"id": 35,
+"name": "Academy manager"
+},
+{
+"id": 36,
+"name": "Chairman of the Board"
+},
+{
+"id": 37,
+"name": "Mental Coach"
+},
+{
+"id": 38,
+"name": "Technical Coach"
+},
+{
+"id": 39,
+"name": "Board Member"
+},
+{
+"id": 40,
+"name": "Executive Assistant"
+},
+{
+"id": 42,
+"name": "Team coordinator"
+},
+{
+"id": 43,
+"name": "Head of Football Operations"
+},
+{
+"id": 44,
+"name": "Marketing Staff "
+},
+{
+"id": 45,
+"name": "Masseur"
+},
+{
+"id": 46,
+"name": "Head of Medical"
+},
+{
+"id": 47,
+"name": "Individual Coach"
+},
+{
+"id": 48,
+"name": "Umpire"
+},
+{
+"id": 49,
+"name": "Schiedsrichterb"
+},
+{
+"id": 50,
+"name": "Secretary general"
+},
+{
+"id": 51,
+"name": "Technical Assistant"
+},
+{
+"id": 52,
+"name": "Trainer scout"
+},
+{
+"id": 53,
+"name": "Chief Scout"
+},
+{
+"id": 54,
+"name": "Sporting Director"
+},
+{
+"id": 55,
+"name": "Team Manager"
+},
+{
+"id": 56,
+"name": "Sponsoring"
+},
+{
+"id": 57,
+"name": "Director of Marketing and Sales"
+},
+{
+"id": 58,
+"name": "Counselor of administrative board"
+},
+{
+"id": 59,
+"name": "Member of administrative board"
+},
+{
+"id": 60,
+"name": "President of administrative board"
+},
+{
+"id": 61,
+"name": "Board member"
+},
+{
+"id": 63,
+"name": "Athletic Coach"
+},
+{
+"id": 65,
+"name": "Goalkeeping Co-ordinator"
+},
+{
+"id": 66,
+"name": "Scout Goalkeeping"
+},
+{
+"id": 67,
+"name": "Academy Manager"
+},
+{
+"id": 68,
+"name": "Technical Director"
+},
+{
+"id": 69,
+"name": "Safety Officer"
+},
+{
+"id": 70,
+"name": "Video Analyst"
+},
+{
+"id": 71,
+"name": "Sports Scientist"
+},
+{
+"id": 73,
+"name": "Investor"
+},
+{
+"id": 74,
+"name": "Head of first team football"
+},
+{
+"id": 75,
+"name": "Coordinator first team football"
+},
+{
+"id": 76,
+"name": "Global Sports Director"
+},
+{
+"id": 77,
+"name": "Sports coordinator"
+},
+{
+"id": 78,
+"name": "Sporting CEO"
+},
+{
+"id": 79,
+"name": "Director of New Media"
+},
+{
+"id": 80,
+"name": "Director of Media and Communications"
+},
+{
+"id": 81,
+"name": "Director of Finance"
+},
+{
+"id": 82,
+"name": "Director of Law"
+},
+{
+"id": 83,
+"name": "Marketing/Management"
+},
+{
+"id": 84,
+"name": "Squad leader"
+},
+{
+"id": 85,
+"name": "Osteopath"
+},
+{
+"id": 86,
+"name": "Honorary President"
+},
+{
+"id": 87,
+"name": "Press Staff"
+},
+{
+"id": 88,
+"name": "Branch manager"
+},
+{
+"id": 89,
+"name": "Media & Communications Co-ordinator"
+},
+{
+"id": 90,
+"name": "Head of Scouting"
+},
+{
+"id": 91,
+"name": "Deputy chairman of the board"
+},
+{
+"id": 92,
+"name": "Media Officer"
+},
+{
+"id": 93,
+"name": "Director of Professional Football and Scout"
+},
+{
+"id": 94,
+"name": "Director of youth department"
+},
+{
+"id": 95,
+"name": "Medical department"
+},
+{
+"id": 96,
+"name": "Administrator marketing management"
+},
+{
+"id": 97,
+"name": "Coordinator marketing management"
+},
+{
+"id": 98,
+"name": "Integration adviser"
+},
+{
+"id": 99,
+"name": "Deputy Managing Director"
+},
+{
+"id": 100,
+"name": "Treasurer"
+},
+{
+"id": 101,
+"name": "Deputy treasurer"
+},
+{
+"id": 102,
+"name": "Advisor of management"
+},
+{
+"id": 103,
+"name": "Head of Soccer School"
+},
+{
+"id": 104,
+"name": "Youth Coach"
+},
+{
+"id": 105,
+"name": "Owner"
+},
+{
+"id": 106,
+"name": "Head of Academy Coaching"
+},
+{
+"id": 107,
+"name": "Shareholder"
+},
+{
+"id": 108,
+"name": "Member of the shareholders' committee"
+},
+{
+"id": 109,
+"name": "President of professional football department"
+},
+{
+"id": 110,
+"name": "President of the league association"
+},
+{
+"id": 111,
+"name": "Staff of the office"
+},
+{
+"id": 112,
+"name": "Economic council"
+},
+{
+"id": 113,
+"name": "Vice-Chairman"
+},
+{
+"id": 115,
+"name": "Managing Director Sport and Communications"
+},
+{
+"id": 116,
+"name": "Chief Financial Officer"
+},
+{
+"id": 118,
+"name": "Advisor"
+},
+{
+"id": 121,
+"name": "Deputy Press Officer"
+},
+{
+"id": 122,
+"name": "Director of stadium company"
+},
+{
+"id": 123,
+"name": "Director of Professional Football"
+},
+{
+"id": 124,
+"name": "Director of Development"
+},
+{
+"id": 125,
+"name": "Managing Director Sport"
+},
+{
+"id": 126,
+"name": "Chief Commercial Officer"
+},
+{
+"id": 127,
+"name": "Chief instructor"
+},
+{
+"id": 128,
+"name": "Strategic Advisor"
+},
+{
+"id": 129,
+"name": "Coordination coach"
+},
+{
+"id": 130,
+"name": "Nutritionist"
+},
+{
+"id": 131,
+"name": "Media worker"
+},
+{
+"id": 132,
+"name": "Preventative coach"
+},
+{
+"id": 133,
+"name": "Chief Financial Officer"
+},
+{
+"id": 134,
+"name": "Chief Operating Officer"
+},
+{
+"id": 135,
+"name": "Chief Marketing Officer"
+},
+{
+"id": 136,
+"name": "Gaming operation"
+},
+{
+"id": 137,
+"name": "Chairman of board of directors"
+},
+{
+"id": 138,
+"name": "Deputy chairman of the board of directors"
+},
+{
+"id": 139,
+"name": "Academy Staff"
+},
+{
+"id": 140,
+"name": "Head of Youth Scouting"
+},
+{
+"id": 141,
+"name": "Educational Assistant"
+},
+{
+"id": 143,
+"name": "Executive assistant of the director"
+},
+{
+"id": 144,
+"name": "Academy Goalkeeping coordinator"
+},
+{
+"id": 145,
+"name": "Coordinator of talent management"
+},
+{
+"id": 146,
+"name": "Match Analyst"
+},
+{
+"id": 147,
+"name": "Opponent Analyst"
+},
+{
+"id": 148,
+"name": "Developer international relations"
+},
+{
+"id": 149,
+"name": "Club representative"
+},
+{
+"id": 150,
+"name": "Secretary"
+},
+{
+"id": 151,
+"name": "Photographer"
+},
+{
+"id": 152,
+"name": "Youth Scouting Co-ordinator"
+},
+{
+"id": 153,
+"name": "Master of ceremonies "
+},
+{
+"id": 154,
+"name": "Director of Sport"
+},
+{
+"id": 155,
+"name": "Association sports teacher"
+},
+{
+"id": 156,
+"name": "Base camp coordinator"
+},
+{
+"id": 157,
+"name": "Head of Logistics"
+},
+{
+"id": 158,
+"name": "Loan Player Manager"
+},
+{
+"id": 159,
+"name": "Forward Coach"
+},
+{
+"id": 160,
+"name": "Scout Defenders"
+},
+{
+"id": 161,
+"name": "Scout Midfielders"
+},
+{
+"id": 162,
+"name": "Scout Forwards"
+},
+{
+"id": 163,
+"name": "Coach trainee"
+},
+{
+"id": 164,
+"name": "Sport Psychologist"
+},
+{
+"id": 165,
+"name": "Club Historian"
+},
+{
+"id": 166,
+"name": "Youth Scout"
+},
+{
+"id": 167,
+"name": "Youth Chief Scout"
+},
+{
+"id": 168,
+"name": "Cook"
+},
+{
+"id": 169,
+"name": "Head of International Relations and Scouting"
+},
+{
+"id": 170,
+"name": "Head of Education"
+},
+{
+"id": 171,
+"name": "Academy Medical Director"
+},
+{
+"id": 172,
+"name": "Commercial Director"
+},
+{
+"id": 173,
+"name": "Managing Director Professional Football"
+},
+{
+"id": 174,
+"name": "Team Organiser"
+},
+{
+"id": 175,
+"name": "Head of Operations and Infrastructure"
+},
+{
+"id": 176,
+"name": "Head of Finance and Human Resources"
+},
+{
+"id": 177,
+"name": "Head of Business Customer Marketing"
+},
+{
+"id": 178,
+"name": "Leiter Vermarktung Privatkunden"
+},
+{
+"id": 179,
+"name": "Head of Media and Communications"
+},
+{
+"id": 180,
+"name": "Medical Director Physiotherapy"
+},
+{
+"id": 181,
+"name": "Director Sponsoring & Marketing"
+},
+{
+"id": 182,
+"name": "Manager Marketing & Sponsoring"
+},
+{
+"id": 183,
+"name": "Sports Technologies Coordinator"
+},
+{
+"id": 184,
+"name": "Lead Academy Physiotherapist"
+},
+{
+"id": 185,
+"name": "Head of methodology"
+},
+{
+"id": 186,
+"name": "Head of Administration"
+},
+{
+"id": 187,
+"name": "Development Coach"
+},
+{
+"id": 188,
+"name": "General Manager"
+},
+{
+"id": 189,
+"name": "Commissioner"
+},
+{
+"id": 190,
+"name": "Performance Manager"
+},
+{
+"id": 191,
+"name": "Board of Directors"
+},
+{
+"id": 192,
+"name": "Squad planner"
+},
+{
+"id": 199,
+"name": "Technical director"
+},
+{
+"id": 201,
+"name": "Spielermanagement"
+},
+{
+"id": 202,
+"name": "Co-trainer analysis"
+},
+{
+"id": 203,
+"name": "Managing Director of Marketing"
+},
+{
+"id": 204,
+"name": "Head of Recruitment"
+},
+{
+"id": 205,
+"name": "Übergangsmanager"
+}
+],
+"outfitters": [
+{
+"id": 1,
+"name": "adidas"
+},
+{
+"id": 2,
+"name": "Nike"
+},
+{
+"id": 3,
+"name": "Puma"
+},
+{
+"id": 4,
+"name": "Kappa"
+},
+{
+"id": 5,
+"name": "Jako"
+},
+{
+"id": 6,
+"name": "Uhlsport"
+},
+{
+"id": 7,
+"name": "Erima"
+},
+{
+"id": 8,
+"name": "Saller"
+},
+{
+"id": 9,
+"name": "Do you Football"
+},
+{
+"id": 10,
+"name": "Hummel"
+},
+{
+"id": 11,
+"name": "Under Armour"
+},
+{
+"id": 12,
+"name": "Reebok"
+},
+{
+"id": 13,
+"name": "Masita"
+},
+{
+"id": 14,
+"name": "DIADORA"
+},
+{
+"id": 15,
+"name": "Warrior"
+},
+{
+"id": 16,
+"name": "le coq sportif"
+},
+{
+"id": 17,
+"name": "Mizuno"
+},
+{
+"id": 18,
+"name": "New Balance"
+},
+{
+"id": 19,
+"name": "Umbro"
+},
+{
+"id": 20,
+"name": "Lotto"
+},
+{
+"id": 21,
+"name": "Asics"
+},
+{
+"id": 22,
+"name": "Joma"
+},
+{
+"id": 23,
+"name": "Sells"
+},
+{
+"id": 24,
+"name": "Craft"
+},
+{
+"id": 25,
+"name": "Elite Sport"
+},
+{
+"id": 26,
+"name": "Concave"
+},
+{
+"id": 27,
+"name": "HashtagOne"
+},
+{
+"id": 28,
+"name": "GAViC"
+},
+{
+"id": 29,
+"name": "X-ONE"
+},
+{
+"id": 30,
+"name": "Reusch"
+},
+{
+"id": 31,
+"name": "Torro"
+},
+{
+"id": 32,
+"name": "ONEkeeper"
+},
+{
+"id": 33,
+"name": "Stanno"
+},
+{
+"id": 34,
+"name": "Catch & Keep"
+},
+{
+"id": 35,
+"name": "Castore"
+},
+{
+"id": 36,
+"name": "Josef Fischer"
+},
+{
+"id": 37,
+"name": "Specs"
+},
+{
+"id": 38,
+"name": "Contact Torwarthandschuhe"
+},
+{
+"id": 39,
+"name": "DS Goalkeeper Gloves"
+},
+{
+"id": 40,
+"name": "AB1"
+},
+{
+"id": 41,
+"name": "Sokito"
+},
+{
+"id": 42,
+"name": "Skechers"
+},
+{
+"id": 43,
+"name": "T1TAN"
+},
+{
+"id": 44,
+"name": "CH Goalkeeping"
+},
+{
+"id": 45,
+"name": "BU1GLOVES"
+},
+{
+"id": 46,
+"name": "TruSox"
+},
+{
+"id": 47,
+"name": "KEEPERsport"
+}
+],
+"injuries": [
+{
+"id": 1,
+"name": "Cruciate ligament tear",
+"category_id": 1
+},
+{
+"id": 2,
+"name": "Cruciate ligament tear",
+"category_id": 1
+},
+{
+"id": 3,
+"name": "Broken fibula",
+"category_id": 1
+},
+{
+"id": 4,
+"name": "Broken tibia",
+"category_id": 1
+},
+{
+"id": 5,
+"name": "Tibia and fibula fracture",
+"category_id": 1
+},
+{
+"id": 6,
+"name": "Syndesmotic ligament tear",
+"category_id": 1
+},
+{
+"id": 7,
+"name": "Meniscus damage",
+"category_id": 1
+},
+{
+"id": 9,
+"name": "flu",
+"category_id": 1
+},
+{
+"id": 10,
+"name": "Torn muscle fiber",
+"category_id": 1
+},
+{
+"id": 11,
+"name": "strain",
+"category_id": 1
+},
+{
+"id": 12,
+"name": "Muscle tear",
+"category_id": 1
+},
+{
+"id": 13,
+"name": "Adductor injury",
+"category_id": 1
+},
+{
+"id": 15,
+"name": "Cartilage damage",
+"category_id": 1
+},
+{
+"id": 16,
+"name": "Broken nose bone",
+"category_id": 1
+},
+{
+"id": 17,
+"name": "Broken cheekbone",
+"category_id": 1
+},
+{
+"id": 18,
+"name": "Skull base fracture",
+"category_id": 1
+},
+{
+"id": 19,
+"name": "Herniated disc",
+"category_id": 1
+},
+{
+"id": 20,
+"name": "Torn lateral knee ligament",
+"category_id": 1
+},
+{
+"id": 21,
+"name": "Torn lateral ankle ligament",
+"category_id": 1
+},
+{
+"id": 22,
+"name": "Torn lateral knee ligament",
+"category_id": 1
+},
+{
+"id": 23,
+"name": "Torn lateral ankle ligament",
+"category_id": 1
+},
+{
+"id": 24,
+"name": "Knee medial ligament tear",
+"category_id": 1
+},
+{
+"id": 25,
+"name": "Inner ankle ligament tear",
+"category_id": 1
+},
+{
+"id": 26,
+"name": "Inner knee ligament tear",
+"category_id": 1
+},
+{
+"id": 27,
+"name": "Inner ligament tear in ankle joint",
+"category_id": 1
+},
+{
+"id": 28,
+"name": "Ligament stretching",
+"category_id": 1
+},
+{
+"id": 29,
+"name": "Achilles tendon rupture",
+"category_id": 1
+},
+{
+"id": 30,
+"name": "Achilles tendon rupture",
+"category_id": 1
+},
+{
+"id": 31,
+"name": "Patellar tendon problems",
+"category_id": 1
+},
+{
+"id": 32,
+"name": "Patellar tendon rupture",
+"category_id": 1
+},
+{
+"id": 33,
+"name": "Broken toe",
+"category_id": 1
+},
+{
+"id": 34,
+"name": "Broken foot",
+"category_id": 1
+},
+{
+"id": 35,
+"name": "Broken arm",
+"category_id": 1
+},
+{
+"id": 36,
+"name": "concussion",
+"category_id": 1
+},
+{
+"id": 37,
+"name": "Pubic bone bruise",
+"category_id": 1
+},
+{
+"id": 38,
+"name": "Pubic bone irritation",
+"category_id": 1
+},
+{
+"id": 39,
+"name": "Inflammation of pubic bone",
+"category_id": 1
+},
+{
+"id": 40,
+"name": "Metatarsal fracture",
+"category_id": 1
+},
+{
+"id": 41,
+"name": "Inflammation in the head of the fibula",
+"category_id": 1
+},
+{
+"id": 42,
+"name": "Thigh problems",
+"category_id": 1
+},
+{
+"id": 44,
+"name": "Hip problems",
+"category_id": 1
+},
+{
+"id": 45,
+"name": "muscle stiffness",
+"category_id": 1
+},
+{
+"id": 47,
+"name": "Knee problems",
+"category_id": 1
+},
+{
+"id": 48,
+"name": "bruise",
+"category_id": 1
+},
+{
+"id": 49,
+"name": "Rib fracture",
+"category_id": 1
+},
+{
+"id": 50,
+"name": "Achilles tendon irritation",
+"category_id": 1
+},
+{
+"id": 51,
+"name": "Heel spur",
+"category_id": 1
+},
+{
+"id": 52,
+"name": "Hairline fracture in the muscles",
+"category_id": 1
+},
+{
+"id": 53,
+"name": "Torn muscle bundle",
+"category_id": 1
+},
+{
+"id": 54,
+"name": "Fever",
+"category_id": 1
+},
+{
+"id": 55,
+"name": "cold",
+"category_id": 1
+},
+{
+"id": 56,
+"name": "Stomach flu",
+"category_id": 1
+},
+{
+"id": 57,
+"name": "fatigue fracture",
+"category_id": 1
+},
+{
+"id": 58,
+"name": "muscular problems",
+"category_id": 1
+},
+{
+"id": 59,
+"name": "Tendonitis",
+"category_id": 1
+},
+{
+"id": 60,
+"name": "Appendicitis",
+"category_id": 1
+},
+{
+"id": 61,
+"name": "Elbow injury",
+"category_id": 1
+},
+{
+"id": 62,
+"name": "Capsular injury",
+"category_id": 1
+},
+{
+"id": 63,
+"name": "Scaphoid fracture",
+"category_id": 1
+},
+{
+"id": 64,
+"name": "Back problems",
+"category_id": 1
+},
+{
+"id": 65,
+"name": "Shoulder injury",
+"category_id": 1
+},
+{
+"id": 66,
+"name": "Toe injury",
+"category_id": 1
+},
+{
+"id": 67,
+"name": "Abdominal muscle strain",
+"category_id": 1
+},
+{
+"id": 68,
+"name": "Mononucleation",
+"category_id": 1
+},
+{
+"id": 69,
+"name": "Broken collarbone",
+"category_id": 1
+},
+{
+"id": 70,
+"name": "Toothache",
+"category_id": 1
+},
+{
+"id": 71,
+"name": "Dead leg",
+"category_id": 1
+},
+{
+"id": 72,
+"name": "bruise",
+"category_id": 1
+},
+{
+"id": 73,
+"name": "Blood poisoning",
+"category_id": 1
+},
+{
+"id": 74,
+"name": "Broken hand",
+"category_id": 1
+},
+{
+"id": 75,
+"name": "Cyst in the knee",
+"category_id": 1
+},
+{
+"id": 76,
+"name": "Kidney tumor",
+"category_id": 1
+},
+{
+"id": 77,
+"name": "Cut",
+"category_id": 1
+},
+{
+"id": 78,
+"name": "Bone sprain",
+"category_id": 1
+},
+{
+"id": 79,
+"name": "Overstretching of the syndesmotic ligament",
+"category_id": 1
+},
+{
+"id": 80,
+"name": "Dislocation fracture of the ankle joint",
+"category_id": 1
+},
+{
+"id": 81,
+"name": "Partial patellar tendon tear",
+"category_id": 1
+},
+{
+"id": 82,
+"name": "Patellar tendon tear",
+"category_id": 1
+},
+{
+"id": 83,
+"name": "Syndesmosis ligament tear",
+"category_id": 1
+},
+{
+"id": 84,
+"name": "Strain in the thigh and gluteal muscles",
+"category_id": 1
+},
+{
+"id": 85,
+"name": "Bruised back",
+"category_id": 1
+},
+{
+"id": 86,
+"name": "Thumb injury",
+"category_id": 1
+},
+{
+"id": 87,
+"name": "Broken thumb",
+"category_id": 1
+},
+{
+"id": 88,
+"name": "Finger injury",
+"category_id": 1
+},
+{
+"id": 89,
+"name": "Broken finger",
+"category_id": 1
+},
+{
+"id": 90,
+"name": "allergic reaction",
+"category_id": 1
+},
+{
+"id": 91,
+"name": "Metacarpal fracture",
+"category_id": 1
+},
+{
+"id": 92,
+"name": "Dislocation of the kneecap",
+"category_id": 1
+},
+{
+"id": 93,
+"name": "Groin problems",
+"category_id": 1
+},
+{
+"id": 94,
+"name": "Tendon rupture",
+"category_id": 1
+},
+{
+"id": 95,
+"name": "Tendon tear",
+"category_id": 1
+},
+{
+"id": 96,
+"name": "double ligament tear",
+"category_id": 1
+},
+{
+"id": 97,
+"name": "Lung tear",
+"category_id": 1
+},
+{
+"id": 98,
+"name": "Torn ankle ligaments",
+"category_id": 1
+},
+{
+"id": 99,
+"name": "Ankle injury",
+"category_id": 1
+},
+{
+"id": 100,
+"name": "Shin bruise",
+"category_id": 1
+},
+{
+"id": 101,
+"name": "unknown injury",
+"category_id": 1
+},
+{
+"id": 102,
+"name": "heart problems",
+"category_id": 1
+},
+{
+"id": 103,
+"name": "Broken leg",
+"category_id": 1
+},
+{
+"id": 104,
+"name": "Bruised ribs",
+"category_id": 1
+},
+{
+"id": 105,
+"name": "Inguinal hernia",
+"category_id": 1
+},
+{
+"id": 106,
+"name": "Internal ligament tear",
+"category_id": 1
+},
+{
+"id": 107,
+"name": "Knee collateral ligament strain",
+"category_id": 1
+},
+{
+"id": 108,
+"name": "Ill",
+"category_id": 1
+},
+{
+"id": 109,
+"name": "Cruciate ligament surgery",
+"category_id": 1
+},
+{
+"id": 110,
+"name": "Sciatica problems",
+"category_id": 1
+},
+{
+"id": 111,
+"name": "Testicle rupture",
+"category_id": 1
+},
+{
+"id": 112,
+"name": "Partial tear of the plantar fascia",
+"category_id": 1
+},
+{
+"id": 113,
+"name": "Lumbago",
+"category_id": 1
+},
+{
+"id": 114,
+"name": "Broken jaw",
+"category_id": 1
+},
+{
+"id": 115,
+"name": "malaria",
+"category_id": 1
+},
+{
+"id": 116,
+"name": "Calf stiffness",
+"category_id": 1
+},
+{
+"id": 117,
+"name": "Calf problems",
+"category_id": 1
+},
+{
+"id": 118,
+"name": "laceration wound",
+"category_id": 1
+},
+{
+"id": 119,
+"name": "Eyebow fracture",
+"category_id": 1
+},
+{
+"id": 120,
+"name": "Calf muscle tear",
+"category_id": 1
+},
+{
+"id": 121,
+"name": "Arch problems",
+"category_id": 1
+},
+{
+"id": 122,
+"name": "Ankle injury",
+"category_id": 1
+},
+{
+"id": 123,
+"name": "Cervical vertebra fracture",
+"category_id": 1
+},
+{
+"id": 124,
+"name": "Vein occlusion",
+"category_id": 1
+},
+{
+"id": 125,
+"name": "Bone marrow swelling",
+"category_id": 1
+},
+{
+"id": 126,
+"name": "Ligament injury",
+"category_id": 1
+},
+{
+"id": 127,
+"name": "Fracture of frontal bone",
+"category_id": 1
+},
+{
+"id": 128,
+"name": "Cyst in the lungs",
+"category_id": 1
+},
+{
+"id": 129,
+"name": "open wound",
+"category_id": 1
+},
+{
+"id": 130,
+"name": "flesh wound",
+"category_id": 1
+},
+{
+"id": 131,
+"name": "Muscle fiber tear",
+"category_id": 1
+},
+{
+"id": 132,
+"name": "pneumonia",
+"category_id": 1
+},
+{
+"id": 133,
+"name": "Virus",
+"category_id": 1
+},
+{
+"id": 134,
+"name": "Cyst in the heel",
+"category_id": 1
+},
+{
+"id": 135,
+"name": "Ruptured eardrum",
+"category_id": 1
+},
+{
+"id": 136,
+"name": "Hearing damage",
+"category_id": 1
+},
+{
+"id": 137,
+"name": "Ankle sprain",
+"category_id": 1
+},
+{
+"id": 138,
+"name": "Internal ligament strain",
+"category_id": 1
+},
+{
+"id": 139,
+"name": "Stress reaction of the bone",
+"category_id": 1
+},
+{
+"id": 140,
+"name": "Splenic infarction",
+"category_id": 1
+},
+{
+"id": 141,
+"name": "Cracked bone",
+"category_id": 1
+},
+{
+"id": 142,
+"name": "Circulation problems",
+"category_id": 1
+},
+{
+"id": 143,
+"name": "Auditory trauma",
+"category_id": 1
+},
+{
+"id": 144,
+"name": "Broken kneecap",
+"category_id": 1
+},
+{
+"id": 145,
+"name": "Inflammation of the biceps tendon in the thigh",
+"category_id": 1
+},
+{
+"id": 146,
+"name": "Broken petrous bone in the ear",
+"category_id": 1
+},
+{
+"id": 147,
+"name": "Knee collateral ligament tear",
+"category_id": 1
+},
+{
+"id": 148,
+"name": "Hairline crack in the lumbar region",
+"category_id": 1
+},
+{
+"id": 149,
+"name": "Torn ligaments in the tarsus",
+"category_id": 1
+},
+{
+"id": 150,
+"name": "Meniscus tear",
+"category_id": 1
+},
+{
+"id": 151,
+"name": "Tear of the lateral meniscus",
+"category_id": 1
+},
+{
+"id": 152,
+"name": "Heel injury",
+"category_id": 1
+},
+{
+"id": 153,
+"name": "Inflammation of the pancreas",
+"category_id": 1
+},
+{
+"id": 154,
+"name": "Achilles tendon surgery",
+"category_id": 1
+},
+{
+"id": 155,
+"name": "Kidney stone surgery",
+"category_id": 1
+},
+{
+"id": 156,
+"name": "Tonsillitis",
+"category_id": 1
+},
+{
+"id": 157,
+"name": "Internal ligament tear",
+"category_id": 1
+},
+{
+"id": 158,
+"name": "Toe joint capsular tear",
+"category_id": 1
+},
+{
+"id": 159,
+"name": "Wrist fracture",
+"category_id": 1
+},
+{
+"id": 160,
+"name": "Balance disorder",
+"category_id": 1
+},
+{
+"id": 161,
+"name": "Torn lateral knee ligament",
+"category_id": 1
+},
+{
+"id": 162,
+"name": "Muscle contusion",
+"category_id": 1
+},
+{
+"id": 163,
+"name": "Stomach problems",
+"category_id": 1
+},
+{
+"id": 164,
+"name": "Outer ligament problems",
+"category_id": 1
+},
+{
+"id": 165,
+"name": "Knee surgery",
+"category_id": 1
+},
+{
+"id": 166,
+"name": "surgery",
+"category_id": 1
+},
+{
+"id": 167,
+"name": "combustion",
+"category_id": 1
+},
+{
+"id": 168,
+"name": "Broken ankle",
+"category_id": 1
+},
+{
+"id": 169,
+"name": "Wrist injury",
+"category_id": 1
+},
+{
+"id": 170,
+"name": "Whiplash",
+"category_id": 1
+},
+{
+"id": 171,
+"name": "Neck bruise",
+"category_id": 1
+},
+{
+"id": 172,
+"name": "Acromioclavicular joint dislocation",
+"category_id": 1
+},
+{
+"id": 173,
+"name": "Elbow fracture",
+"category_id": 1
+},
+{
+"id": 174,
+"name": "Hairline fracture in the fibula",
+"category_id": 1
+},
+{
+"id": 175,
+"name": "Achilles tendon problems",
+"category_id": 1
+},
+{
+"id": 176,
+"name": "Groin strain",
+"category_id": 1
+},
+{
+"id": 177,
+"name": "Head injury",
+"category_id": 1
+},
+{
+"id": 178,
+"name": "Inner ligament stretch of the knee",
+"category_id": 1
+},
+{
+"id": 179,
+"name": "Nose surgery",
+"category_id": 1
+},
+{
+"id": 180,
+"name": "Shingles",
+"category_id": 1
+},
+{
+"id": 181,
+"name": "Arthroscopy",
+"category_id": 1
+},
+{
+"id": 182,
+"name": "Swine flu",
+"category_id": 1
+},
+{
+"id": 183,
+"name": "Broken shoulder",
+"category_id": 1
+},
+{
+"id": 184,
+"name": "Shin injury",
+"category_id": 1
+},
+{
+"id": 187,
+"name": "traffic accident",
+"category_id": 1
+},
+{
+"id": 188,
+"name": "Bone edema",
+"category_id": 1
+},
+{
+"id": 189,
+"name": "Compartment syndrome",
+"category_id": 1
+},
+{
+"id": 190,
+"name": "Metatarsal bruise",
+"category_id": 1
+},
+{
+"id": 191,
+"name": "Patellar tendon dislocation",
+"category_id": 1
+},
+{
+"id": 192,
+"name": "Torn knee ligaments",
+"category_id": 1
+},
+{
+"id": 193,
+"name": "meningitis",
+"category_id": 1
+},
+{
+"id": 194,
+"name": "Foot injury",
+"category_id": 1
+},
+{
+"id": 195,
+"name": "Knee injury",
+"category_id": 1
+},
+{
+"id": 196,
+"name": "angina",
+"category_id": 1
+},
+{
+"id": 197,
+"name": "Hand injury",
+"category_id": 1
+},
+{
+"id": 198,
+"name": "Muscle strain",
+"category_id": 1
+},
+{
+"id": 199,
+"name": "Overstretching",
+"category_id": 1
+},
+{
+"id": 200,
+"name": "Pubalgia",
+"category_id": 1
+},
+{
+"id": 201,
+"name": "bronchitis",
+"category_id": 1
+},
+{
+"id": 202,
+"name": "Longitudinal tendon tear",
+"category_id": 1
+},
+{
+"id": 203,
+"name": "Knock",
+"category_id": 1
+},
+{
+"id": 204,
+"name": "minor knock",
+"category_id": 1
+},
+{
+"id": 206,
+"name": "sprain",
+"category_id": 1
+},
+{
+"id": 207,
+"name": "Forearm fracture",
+"category_id": 1
+},
+{
+"id": 208,
+"name": "Cruciate ligament strain",
+"category_id": 1
+},
+{
+"id": 209,
+"name": "Inflammation of the leg skin",
+"category_id": 1
+},
+{
+"id": 210,
+"name": "Ankle surgery",
+"category_id": 1
+},
+{
+"id": 211,
+"name": "Meniscus injury",
+"category_id": 1
+},
+{
+"id": 212,
+"name": "infection",
+"category_id": 1
+},
+{
+"id": 213,
+"name": "Adductor pain",
+"category_id": 1
+},
+{
+"id": 214,
+"name": "Foot surgery",
+"category_id": 1
+},
+{
+"id": 216,
+"name": "Vertebral injury",
+"category_id": 1
+},
+{
+"id": 217,
+"name": "Bursitis",
+"category_id": 1
+},
+{
+"id": 218,
+"name": "Pelvic tumor",
+"category_id": 1
+},
+{
+"id": 219,
+"name": "Cervical spine injury",
+"category_id": 1
+},
+{
+"id": 220,
+"name": "Liver tumor",
+"category_id": 1
+},
+{
+"id": 221,
+"name": "Lumbar vertebra problems",
+"category_id": 1
+},
+{
+"id": 222,
+"name": "Cheekbone bruise",
+"category_id": 1
+},
+{
+"id": 223,
+"name": "Partial damage to the cruciate ligament",
+"category_id": 1
+},
+{
+"id": 224,
+"name": "Appendectomy",
+"category_id": 1
+},
+{
+"id": 225,
+"name": "Pelvic obliquity",
+"category_id": 1
+},
+{
+"id": 226,
+"name": "Pneumothorax",
+"category_id": 1
+},
+{
+"id": 228,
+"name": "Fracture of the eye socket",
+"category_id": 1
+},
+{
+"id": 229,
+"name": "Bone inflammation",
+"category_id": 1
+},
+{
+"id": 230,
+"name": "Remove screws/nails",
+"category_id": 1
+},
+{
+"id": 231,
+"name": "Depression",
+"category_id": 1
+},
+{
+"id": 232,
+"name": "Pelvic injury",
+"category_id": 1
+},
+{
+"id": 233,
+"name": "Blockage in the back",
+"category_id": 1
+},
+{
+"id": 234,
+"name": "Hole in the eardrum",
+"category_id": 1
+},
+{
+"id": 235,
+"name": "Skull fracture",
+"category_id": 1
+},
+{
+"id": 236,
+"name": "Kidney problems",
+"category_id": 1
+},
+{
+"id": 237,
+"name": "Inner ligament injury",
+"category_id": 1
+},
+{
+"id": 238,
+"name": "Insect bite",
+"category_id": 1
+},
+{
+"id": 239,
+"name": "Tibial head contusion",
+"category_id": 1
+},
+{
+"id": 241,
+"name": "Capsule rupture",
+"category_id": 1
+},
+{
+"id": 242,
+"name": "Partial muscle tear",
+"category_id": 1
+},
+{
+"id": 243,
+"name": "Tooth infection",
+"category_id": 1
+},
+{
+"id": 244,
+"name": "Hip injury",
+"category_id": 1
+},
+{
+"id": 246,
+"name": "Foot bruise",
+"category_id": 1
+},
+{
+"id": 247,
+"name": "Testicular cancer",
+"category_id": 1
+},
+{
+"id": 248,
+"name": "Eye injury",
+"category_id": 1
+},
+{
+"id": 249,
+"name": "Hip bruise",
+"category_id": 1
+},
+{
+"id": 250,
+"name": "inflamed wound",
+"category_id": 1
+},
+{
+"id": 251,
+"name": "Groin surgery",
+"category_id": 1
+},
+{
+"id": 252,
+"name": "Torn knee ligaments",
+"category_id": 1
+},
+{
+"id": 253,
+"name": "Ankle ligament tear",
+"category_id": 1
+},
+{
+"id": 254,
+"name": "Collateral ankle ligament tear",
+"category_id": 1
+},
+{
+"id": 255,
+"name": "Torn lateral ankle ligament",
+"category_id": 1
+},
+{
+"id": 256,
+"name": "Outer ligament tear",
+"category_id": 1
+},
+{
+"id": 257,
+"name": "Outer ligament tear",
+"category_id": 1
+},
+{
+"id": 258,
+"name": "Torn ligaments",
+"category_id": 1
+},
+{
+"id": 259,
+"name": "Ligament tear",
+"category_id": 1
+},
+{
+"id": 260,
+"name": "Collateral ligament tear",
+"category_id": 1
+},
+{
+"id": 261,
+"name": "Collateral ligament ripture",
+"category_id": 1
+},
+{
+"id": 262,
+"name": "Cerebral hemorrhage",
+"category_id": 1
+},
+{
+"id": 263,
+"name": "Inflammation in the knee",
+"category_id": 1
+},
+{
+"id": 264,
+"name": "Lumbar vertebra fracture",
+"category_id": 1
+},
+{
+"id": 265,
+"name": "Collateral ligament injury",
+"category_id": 1
+},
+{
+"id": 266,
+"name": "Intestinal virus",
+"category_id": 1
+},
+{
+"id": 267,
+"name": "Torn muscle fiber in the adductor area",
+"category_id": 1
+},
+{
+"id": 268,
+"name": "Lung contusion",
+"category_id": 1
+},
+{
+"id": 269,
+"name": "Midfacial fracture",
+"category_id": 1
+},
+{
+"id": 270,
+"name": "Food poisoning",
+"category_id": 1
+},
+{
+"id": 271,
+"name": "inflammation",
+"category_id": 1
+},
+{
+"id": 272,
+"name": "Ankle sprain",
+"category_id": 1
+},
+{
+"id": 273,
+"name": "Internal ligament tear",
+"category_id": 1
+},
+{
+"id": 274,
+"name": "Inflammation of ligaments in the knee",
+"category_id": 1
+},
+{
+"id": 275,
+"name": "Muscle fatigue",
+"category_id": 1
+},
+{
+"id": 276,
+"name": "Dental surgery",
+"category_id": 1
+},
+{
+"id": 277,
+"name": "Blood clots in the lungs",
+"category_id": 1
+},
+{
+"id": 278,
+"name": "Edema in the knee",
+"category_id": 1
+},
+{
+"id": 279,
+"name": "Femoral fracture",
+"category_id": 1
+},
+{
+"id": 280,
+"name": "Femoral neck fracture",
+"category_id": 1
+},
+{
+"id": 281,
+"name": "Cruciate ligament strain",
+"category_id": 1
+},
+{
+"id": 282,
+"name": "Knee bruise",
+"category_id": 1
+},
+{
+"id": 283,
+"name": "Facial fracture",
+"category_id": 1
+},
+{
+"id": 284,
+"name": "fracture",
+"category_id": 1
+},
+{
+"id": 285,
+"name": "Liver transplant",
+"category_id": 1
+},
+{
+"id": 286,
+"name": "Tendon irritation",
+"category_id": 1
+},
+{
+"id": 287,
+"name": "Adductor tear",
+"category_id": 1
+},
+{
+"id": 288,
+"name": "Cyst on jaw",
+"category_id": 1
+},
+{
+"id": 289,
+"name": "Bruise on ankle",
+"category_id": 1
+},
+{
+"id": 290,
+"name": "Bruised knee",
+"category_id": 1
+},
+{
+"id": 291,
+"name": "Hamstring muscle injury",
+"category_id": 1
+},
+{
+"id": 292,
+"name": "Impingement syndrome",
+"category_id": 1
+},
+{
+"id": 293,
+"name": "Lymphatic cancer",
+"category_id": 1
+},
+{
+"id": 294,
+"name": "Bone-Bruise-Syndrome",
+"category_id": 1
+},
+{
+"id": 295,
+"name": "Fissure of the fibula",
+"category_id": 1
+},
+{
+"id": 296,
+"name": "Shoulder joint contusion",
+"category_id": 1
+},
+{
+"id": 297,
+"name": "Inflammation of the sole of the foot",
+"category_id": 1
+},
+{
+"id": 298,
+"name": "Nose injury",
+"category_id": 1
+},
+{
+"id": 299,
+"name": "Hamstring injury",
+"category_id": 1
+},
+{
+"id": 300,
+"name": "Hamstring strain",
+"category_id": 1
+},
+{
+"id": 301,
+"name": "Back injury",
+"category_id": 1
+},
+{
+"id": 302,
+"name": "Calf injury",
+"category_id": 1
+},
+{
+"id": 303,
+"name": "Muscle injury",
+"category_id": 1
+},
+{
+"id": 304,
+"name": "Achilles heel problems",
+"category_id": 1
+},
+{
+"id": 305,
+"name": "Groin injury",
+"category_id": 1
+},
+{
+"id": 306,
+"name": "Knock",
+"category_id": 1
+},
+{
+"id": 307,
+"name": "Injury to the ankle",
+"category_id": 1
+},
+{
+"id": 308,
+"name": "Facial injury",
+"category_id": 1
+},
+{
+"id": 309,
+"name": "Injury to abdominal muscles",
+"category_id": 1
+},
+{
+"id": 310,
+"name": "Contracture",
+"category_id": 1
+},
+{
+"id": 311,
+"name": "Cruciate ligament injury",
+"category_id": 1
+},
+{
+"id": 312,
+"name": "Leg injury",
+"category_id": 1
+},
+{
+"id": 313,
+"name": "Neck injury",
+"category_id": 1
+},
+{
+"id": 314,
+"name": "chickenpox",
+"category_id": 1
+},
+{
+"id": 315,
+"name": "Right hip flexor problems",
+"category_id": 1
+},
+{
+"id": 316,
+"name": "Left hip flexor problems",
+"category_id": 1
+},
+{
+"id": 317,
+"name": "Intestinal surgery",
+"category_id": 1
+},
+{
+"id": 318,
+"name": "Sore muscles",
+"category_id": 1
+},
+{
+"id": 319,
+"name": "tuberculosis",
+"category_id": 1
+},
+{
+"id": 320,
+"name": "collapsed lung",
+"category_id": 1
+},
+{
+"id": 321,
+"name": "abscess",
+"category_id": 1
+},
+{
+"id": 322,
+"name": "Bone bleeding in the thigh",
+"category_id": 1
+},
+{
+"id": 323,
+"name": "Crack bruise",
+"category_id": 1
+},
+{
+"id": 324,
+"name": "Abdominal problems",
+"category_id": 1
+},
+{
+"id": 325,
+"name": "Arm injury",
+"category_id": 1
+},
+{
+"id": 326,
+"name": "Frontal sinus fracture",
+"category_id": 1
+},
+{
+"id": 327,
+"name": "Coccyx fistula",
+"category_id": 1
+},
+{
+"id": 328,
+"name": "Fracture of fibula shaft",
+"category_id": 1
+},
+{
+"id": 329,
+"name": "Varicose vein",
+"category_id": 1
+},
+{
+"id": 330,
+"name": "Peroneus tendon injury",
+"category_id": 1
+},
+{
+"id": 331,
+"name": "pinched nerve",
+"category_id": 1
+},
+{
+"id": 332,
+"name": "coma",
+"category_id": 1
+},
+{
+"id": 333,
+"name": "Inflammation in the spine",
+"category_id": 1
+},
+{
+"id": 334,
+"name": "Coccyx bruise",
+"category_id": 1
+},
+{
+"id": 335,
+"name": "Compression of the spine",
+"category_id": 1
+},
+{
+"id": 336,
+"name": "contortion",
+"category_id": 1
+},
+{
+"id": 337,
+"name": "Ankle sprain",
+"category_id": 1
+},
+{
+"id": 338,
+"name": "Patellar tendinopathy syndrome",
+"category_id": 1
+},
+{
+"id": 339,
+"name": "Bone bruise",
+"category_id": 1
+},
+{
+"id": 340,
+"name": "Achilles tendon contusion",
+"category_id": 1
+},
+{
+"id": 341,
+"name": "Bone splintering",
+"category_id": 1
+},
+{
+"id": 342,
+"name": "Hairline crack in foot",
+"category_id": 1
+},
+{
+"id": 343,
+"name": "Bruise on shinbone",
+"category_id": 1
+},
+{
+"id": 344,
+"name": "Cheekbone surgery",
+"category_id": 1
+},
+{
+"id": 345,
+"name": "stroke",
+"category_id": 1
+},
+{
+"id": 346,
+"name": "Calf strain",
+"category_id": 1
+},
+{
+"id": 347,
+"name": "Heel problems",
+"category_id": 1
+},
+{
+"id": 348,
+"name": "Meniscus tear",
+"category_id": 1
+},
+{
+"id": 349,
+"name": "Bruise on the ankle joint",
+"category_id": 1
+},
+{
+"id": 350,
+"name": "Herniated umbilical button",
+"category_id": 1
+},
+{
+"id": 351,
+"name": "Scaphoid surgery",
+"category_id": 1
+},
+{
+"id": 352,
+"name": "Inflammation in the ankle joint",
+"category_id": 1
+},
+{
+"id": 353,
+"name": "Meniscus irritation",
+"category_id": 1
+},
+{
+"id": 354,
+"name": "Patellar tendon irritation",
+"category_id": 1
+},
+{
+"id": 355,
+"name": "Fitness",
+"category_id": 1
+},
+{
+"id": 356,
+"name": "corn",
+"category_id": 1
+},
+{
+"id": 357,
+"name": "Hairline crack in middle finger",
+"category_id": 1
+},
+{
+"id": 358,
+"name": "Capsular tear of ankle joint",
+"category_id": 1
+},
+{
+"id": 359,
+"name": "Skin cancer",
+"category_id": 1
+},
+{
+"id": 360,
+"name": "Ankle problems",
+"category_id": 1
+},
+{
+"id": 361,
+"name": "Torn thigh muscle",
+"category_id": 1
+},
+{
+"id": 362,
+"name": "Inflammation of the nerve roots in the back",
+"category_id": 1
+},
+{
+"id": 363,
+"name": "Skin disease",
+"category_id": 1
+},
+{
+"id": 364,
+"name": "Gunshot wound",
+"category_id": 1
+},
+{
+"id": 365,
+"name": "Rest",
+"category_id": 1
+},
+{
+"id": 366,
+"name": "influenza",
+"category_id": 1
+},
+{
+"id": 367,
+"name": "Fracture of the humeral head",
+"category_id": 1
+},
+{
+"id": 368,
+"name": "Hip flexor problems",
+"category_id": 1
+},
+{
+"id": 369,
+"name": "Cancer",
+"category_id": 1
+},
+{
+"id": 370,
+"name": "Splenic rupture",
+"category_id": 1
+},
+{
+"id": 371,
+"name": "Lower leg fracture",
+"category_id": 1
+},
+{
+"id": 372,
+"name": "Pelvic contusion",
+"category_id": 1
+},
+{
+"id": 373,
+"name": "Laceration",
+"category_id": 1
+},
+{
+"id": 374,
+"name": "Corona virus",
+"category_id": 13
+},
+{
+"id": 375,
+"name": "Virus",
+"category_id": 13
+},
+{
+"id": 376,
+"name": "Quarantine",
+"category_id": 13
+},
+{
+"id": 377,
+"name": "Chest injury",
+"category_id": 1
+},
+{
+"id": 379,
+"name": "Nerval disease",
+"category_id": 1
+},
+{
+"id": 380,
+"name": "Ear canal fracture",
+"category_id": 2
+}
+],
+"absences": [
+{
+"id": 1,
+"name": "Yellow card suspension",
+"is_suspension": true
+},
+{
+"id": 2,
+"name": "Indirect card suspension",
+"is_suspension": true
+},
+{
+"id": 3,
+"name": "Red card suspension",
+"is_suspension": true
+},
+{
+"id": 4,
+"name": "special leave",
+"is_suspension": false
+},
+{
+"id": 5,
+"name": "Called up to national team",
+"is_suspension": false
+},
+{
+"id": 6,
+"name": "Suspension through sports court",
+"is_suspension": true
+},
+{
+"id": 7,
+"name": "Suspended",
+"is_suspension": false
+},
+{
+"id": 8,
+"name": "Olympic games",
+"is_suspension": false
+},
+{
+"id": 9,
+"name": "No eligibility",
+"is_suspension": false
+},
+{
+"id": 10,
+"name": "Doping ban",
+"is_suspension": true
+},
+{
+"id": 11,
+"name": "In training camp with first team",
+"is_suspension": false
+},
+{
+"id": 12,
+"name": "Military service",
+"is_suspension": false
+},
+{
+"id": 13,
+"name": "visa issues",
+"is_suspension": false
+}
+],
+"contracts": [
+{
+"id": 1,
+"name": "both parties 1 year"
+},
+{
+"id": 2,
+"name": "both parties 2 years"
+},
+{
+"id": 3,
+"name": "both parties 3 years"
+},
+{
+"id": 4,
+"name": "Option to buy"
+},
+{
+"id": 5,
+"name": "performance option"
+},
+{
+"id": 6,
+"name": "club option 1 year"
+},
+{
+"id": 8,
+"name": "club option 2 years"
+},
+{
+"id": 9,
+"name": "club option 3 years"
+},
+{
+"id": 10,
+"name": "player 1 year/club 2 years"
+},
+{
+"id": 11,
+"name": "Option for a further year"
+},
+{
+"id": 12,
+"name": "player option 1 year"
+},
+{
+"id": 13,
+"name": "Relegation/Promotion clause"
+},
+{
+"id": 14,
+"name": "Buy-option with buy-back option"
+},
+{
+"id": 15,
+"name": "Amateur contract"
+},
+{
+"id": 16,
+"name": "Obligation to buy with conditions"
+},
+{
+"id": 17,
+"name": "Contract until end of season"
+}
+],
+"actions": [
+{
+"id": 101,
+"name": "Kick Off",
+"type": "UNKNOWN"
+},
+{
+"id": 102,
+"name": "Half Time",
+"type": "UNKNOWN"
+},
+{
+"id": 103,
+"name": "Resuming play",
+"type": "UNKNOWN"
+},
+{
+"id": 104,
+"name": "Full Time",
+"type": "UNKNOWN"
+},
+{
+"id": 105,
+"name": "Kick Off Extra Time",
+"type": "UNKNOWN"
+},
+{
+"id": 106,
+"name": "Half Time Extra Time",
+"type": "UNKNOWN"
+},
+{
+"id": 107,
+"name": "Resuming extra time",
+"type": "UNKNOWN"
+},
+{
+"id": 108,
+"name": "Full Time Extra Time",
+"type": "UNKNOWN"
+},
+{
+"id": 109,
+"name": "Penalty Shootout",
+"type": "UNKNOWN"
+},
+{
+"id": 200,
+"name": "Not reported",
+"type": "GOAL"
+},
+{
+"id": 201,
+"name": "Left-footed shot",
+"type": "GOAL"
+},
+{
+"id": 202,
+"name": "Right-footed shot",
+"type": "GOAL"
+},
+{
+"id": 203,
+"name": "Header",
+"type": "GOAL"
+},
+{
+"id": 204,
+"name": "Penalty",
+"type": "GOAL"
+},
+{
+"id": 205,
+"name": "Penalty rebound",
+"type": "GOAL"
+},
+{
+"id": 206,
+"name": "Own-goal",
+"type": "GOAL"
+},
+{
+"id": 207,
+"name": "Direct free kick",
+"type": "GOAL"
+},
+{
+"id": 208,
+"name": "Counter attack goal",
+"type": "GOAL"
+},
+{
+"id": 209,
+"name": "Long distance kick",
+"type": "GOAL"
+},
+{
+"id": 210,
+"name": "Tap-in",
+"type": "GOAL"
+},
+{
+"id": 211,
+"name": "Direct corner",
+"type": "GOAL"
+},
+{
+"id": 212,
+"name": "Deflected shot on goal",
+"type": "GOAL"
+},
+{
+"id": 213,
+"name": "Solo run",
+"type": "GOAL"
+},
+{
+"id": 214,
+"name": "Chest",
+"type": "GOAL"
+},
+{
+"id": 301,
+"name": "Yellow card",
+"type": "CARD"
+},
+{
+"id": 302,
+"name": "Second yellow",
+"type": "CARD"
+},
+{
+"id": 303,
+"name": "Red card",
+"type": "CARD"
+},
+{
+"id": 400,
+"name": "Not reported",
+"type": "SUBSTITUTE"
+},
+{
+"id": 500,
+"name": "Not reported",
+"type": "MISSED_PENALTY"
+},
+{
+"id": 501,
+"name": "Penalty for handball",
+"type": "MISSED_PENALTY"
+},
+{
+"id": 502,
+"name": "Penalty for a foul",
+"type": "MISSED_PENALTY"
+},
+{
+"id": 601,
+"name": "Scored",
+"type": "SHOOTOUT"
+},
+{
+"id": 602,
+"name": "Saved",
+"type": "SHOOTOUT"
+},
+{
+"id": 603,
+"name": "Missed",
+"type": "SHOOTOUT"
+},
+{
+"id": 701,
+"name": "Yellow card",
+"type": "COACH_SANCTION"
+},
+{
+"id": 702,
+"name": "Second yellow",
+"type": "COACH_SANCTION"
+},
+{
+"id": 703,
+"name": "Red card",
+"type": "COACH_SANCTION"
+},
+{
+"id": 704,
+"name": "sending-off",
+"type": "COACH_SANCTION"
+},
+{
+"id": 77710,
+"name": "Kick Off",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77720,
+"name": "Half Time",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77730,
+"name": "End of normal time",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77740,
+"name": "Kick Off Extra Time",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77750,
+"name": "Half Time Extra Time",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77760,
+"name": "End of extra time",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77770,
+"name": "Start of the penalty shoot-out",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77780,
+"name": "End of the penalty shoot-out",
+"type": "PLACEHOLDER"
+},
+{
+"id": 77790,
+"name": "End of the game",
+"type": "PLACEHOLDER"
+},
+{
+"id": 88898,
+"name": "Confirmed",
+"type": "VAR_DECISION"
+},
+{
+"id": 88899,
+"name": "Cancelled",
+"type": "VAR_DECISION"
+}
+],
+"reasons": [
+{
+"id": 200,
+"name": "Not reported",
+"type": "GOAL"
+},
+{
+"id": 201,
+"name": "Corner",
+"type": "GOAL"
+},
+{
+"id": 202,
+"name": "Pass",
+"type": "GOAL"
+},
+{
+"id": 203,
+"name": "Cross",
+"type": "GOAL"
+},
+{
+"id": 204,
+"name": "Free kick",
+"type": "GOAL"
+},
+{
+"id": 205,
+"name": "Penalty: Fouled player",
+"type": "GOAL"
+},
+{
+"id": 206,
+"name": "Handball by",
+"type": "GOAL"
+},
+{
+"id": 207,
+"name": "Header",
+"type": "GOAL"
+},
+{
+"id": 208,
+"name": "Shot on goal",
+"type": "GOAL"
+},
+{
+"id": 209,
+"name": "Throw-in",
+"type": "GOAL"
+},
+{
+"id": 210,
+"name": "Goal-kick",
+"type": "GOAL"
+},
+{
+"id": 211,
+"name": "Without assist",
+"type": "GOAL"
+},
+{
+"id": 300,
+"name": "Not reported",
+"type": "CARD"
+},
+{
+"id": 301,
+"name": "Foul",
+"type": "CARD"
+},
+{
+"id": 302,
+"name": "Dissent",
+"type": "CARD"
+},
+{
+"id": 303,
+"name": "Taking off shirt",
+"type": "CARD"
+},
+{
+"id": 304,
+"name": "Time wasting",
+"type": "CARD"
+},
+{
+"id": 305,
+"name": "Professional foul",
+"type": "CARD"
+},
+{
+"id": 306,
+"name": "Diving",
+"type": "CARD"
+},
+{
+"id": 307,
+"name": "Violent conduct",
+"type": "CARD"
+},
+{
+"id": 308,
+"name": "Wall distance",
+"type": "CARD"
+},
+{
+"id": 309,
+"name": "Unsporting behaviour",
+"type": "CARD"
+},
+{
+"id": 310,
+"name": "Abuse",
+"type": "CARD"
+},
+{
+"id": 311,
+"name": "Shooting ball",
+"type": "CARD"
+},
+{
+"id": 312,
+"name": "Serious foul",
+"type": "CARD"
+},
+{
+"id": 313,
+"name": "Handball",
+"type": "CARD"
+},
+{
+"id": 314,
+"name": "Climbing fence",
+"type": "CARD"
+},
+{
+"id": 315,
+"name": "Repeated Foul",
+"type": "CARD"
+},
+{
+"id": 316,
+"name": "Mass confrontation",
+"type": "CARD"
+},
+{
+"id": 317,
+"name": "Tactical foul",
+"type": "CARD"
+},
+{
+"id": 400,
+"name": "Not reported",
+"type": "SUBSTITUTE"
+},
+{
+"id": 401,
+"name": "Tactical",
+"type": "SUBSTITUTE"
+},
+{
+"id": 402,
+"name": "Injury",
+"type": "SUBSTITUTE"
+},
+{
+"id": 403,
+"name": "Risk of booking",
+"type": "SUBSTITUTE"
+},
+{
+"id": 404,
+"name": "Resting",
+"type": "SUBSTITUTE"
+},
+{
+"id": 405,
+"name": "Special achievements",
+"type": "SUBSTITUTE"
+},
+{
+"id": 406,
+"name": "Delay",
+"type": "SUBSTITUTE"
+},
+{
+"id": 407,
+"name": "Substitution without replacement",
+"type": "SUBSTITUTE"
+},
+{
+"id": 500,
+"name": "Not reported",
+"type": "MISSED_PENALTY"
+},
+{
+"id": 501,
+"name": "Saved",
+"type": "MISSED_PENALTY"
+},
+{
+"id": 502,
+"name": "Missed",
+"type": "MISSED_PENALTY"
+},
+{
+"id": 503,
+"name": "Infringements",
+"type": "MISSED_PENALTY"
+},
+{
+"id": 600,
+"name": "Not reported",
+"type": "SHOOTOUT"
+},
+{
+"id": 601,
+"name": "Goal: left",
+"type": "SHOOTOUT"
+},
+{
+"id": 602,
+"name": "Goal: center",
+"type": "SHOOTOUT"
+},
+{
+"id": 603,
+"name": "Goal: right",
+"type": "SHOOTOUT"
+},
+{
+"id": 604,
+"name": "Missed: post",
+"type": "SHOOTOUT"
+},
+{
+"id": 605,
+"name": "Misplaced: crossbar",
+"type": "SHOOTOUT"
+},
+{
+"id": 606,
+"name": "Misplaced: off target",
+"type": "SHOOTOUT"
+},
+{
+"id": 607,
+"name": "Missed: over the bar",
+"type": "SHOOTOUT"
+},
+{
+"id": 608,
+"name": "Infringements",
+"type": "SHOOTOUT"
+},
+{
+"id": 88810,
+"name": "Goal awarded",
+"type": "VAR_DECISION"
+},
+{
+"id": 88820,
+"name": "Goal not awarded",
+"type": "VAR_DECISION"
+},
+{
+"id": 88830,
+"name": "Penalty awarded",
+"type": "VAR_DECISION"
+},
+{
+"id": 88840,
+"name": "Penalty not awarded",
+"type": "VAR_DECISION"
+},
+{
+"id": 88850,
+"name": "Red card given",
+"type": "VAR_DECISION"
+},
+{
+"id": 88860,
+"name": "Card upgrade",
+"type": "VAR_DECISION"
+},
+{
+"id": 88870,
+"name": "Mistaken identity",
+"type": "VAR_DECISION"
+},
+{
+"id": 88880,
+"name": "Other",
+"type": "VAR_DECISION"
+}
+],
+"competition_groups": [
+{
+"id": "1",
+"name": "Group 1",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "10",
+"name": "Group 10",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "11",
+"name": "Group 11",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "12",
+"name": "Group 12",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "13",
+"name": "Group 13",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "14",
+"name": "Group 14",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "15",
+"name": "Group 15",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "16",
+"name": "Group 16",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "17",
+"name": "Group 17",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "18",
+"name": "Group 18",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "19",
+"name": "Group 19",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "1R",
+"name": "First Round",
+"base_name": "First Round",
+"is_group_stage": false
+},
+{
+"id": "1RE",
+"name": "First Round Replay",
+"base_name": "First Round",
+"is_group_stage": false
+},
+{
+"id": "1RH",
+"name": "First Round 1st leg",
+"base_name": "First Round",
+"is_group_stage": false
+},
+{
+"id": "1RR",
+"name": "First Round 2nd leg",
+"base_name": "First Round",
+"is_group_stage": false
+},
+{
+"id": "1VR",
+"name": "First Preliminary Round",
+"base_name": "First Preliminary Round",
+"is_group_stage": false
+},
+{
+"id": "2",
+"name": "Group 2",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "20",
+"name": "Group 20",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "21",
+"name": "Group 21",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "22",
+"name": "Group 22",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "23",
+"name": "Group 23",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "24",
+"name": "Group 24",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "25",
+"name": "Group 25",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "26",
+"name": "Group 26",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "27",
+"name": "Group 27",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "28",
+"name": "Group 28",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "29",
+"name": "Group 29",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "2R",
+"name": "Second Round",
+"base_name": "Second Round",
+"is_group_stage": false
+},
+{
+"id": "2RE",
+"name": "Second Round Replay",
+"base_name": "Second Round",
+"is_group_stage": false
+},
+{
+"id": "2RH",
+"name": "Second Round 1st leg",
+"base_name": "Second Round",
+"is_group_stage": false
+},
+{
+"id": "2RR",
+"name": "Second Round 2nd leg",
+"base_name": "Second Round",
+"is_group_stage": false
+},
+{
+"id": "2VR",
+"name": "2.Vorrunde",
+"base_name": "Second Preliminary Round",
+"is_group_stage": false
+},
+{
+"id": "3",
+"name": "Group 3",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "30",
+"name": "Group 30",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "31",
+"name": "Group 31",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "32",
+"name": "Group 32",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "3R",
+"name": "Third Round",
+"base_name": "Third Round",
+"is_group_stage": false
+},
+{
+"id": "3RE",
+"name": "Third Round Replay",
+"base_name": "Third Round",
+"is_group_stage": false
+},
+{
+"id": "3RH",
+"name": "3rd round 1st leg",
+"base_name": "Third Round",
+"is_group_stage": false
+},
+{
+"id": "3RR",
+"name": "3rd round 2nd leg",
+"base_name": "Third Round",
+"is_group_stage": false
+},
+{
+"id": "4",
+"name": "Group 4",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "4R",
+"name": "Fourth Round",
+"base_name": "Fourth Round",
+"is_group_stage": false
+},
+{
+"id": "4RE",
+"name": "4th round deciders",
+"base_name": "Fourth Round",
+"is_group_stage": false
+},
+{
+"id": "4RH",
+"name": "4th round 1st leg",
+"base_name": "Fourth Round",
+"is_group_stage": false
+},
+{
+"id": "4RR",
+"name": "4th round 2nd leg",
+"base_name": "Fourth Round",
+"is_group_stage": false
+},
+{
+"id": "5",
+"name": "Group 5",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "5R",
+"name": "Fifth Round",
+"base_name": "Fifth Round",
+"is_group_stage": false
+},
+{
+"id": "5RE",
+"name": "5th round deciders",
+"base_name": "Fifth Round",
+"is_group_stage": false
+},
+{
+"id": "5RH",
+"name": "5th round 1st leg",
+"base_name": "Fifth Round",
+"is_group_stage": false
+},
+{
+"id": "5RR",
+"name": "5th round 2nd leg",
+"base_name": "Fifth Round",
+"is_group_stage": false
+},
+{
+"id": "6",
+"name": "Group 6",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "6R",
+"name": "Sixth Round",
+"base_name": "Sixth Round",
+"is_group_stage": false
+},
+{
+"id": "6RE",
+"name": "6th round deciders",
+"base_name": "Sixth Round",
+"is_group_stage": false
+},
+{
+"id": "6RH",
+"name": "6th round 1st leg",
+"base_name": "Sixth Round",
+"is_group_stage": false
+},
+{
+"id": "6RR",
+"name": "6th round 2nd leg",
+"base_name": "Sixth Round",
+"is_group_stage": false
+},
+{
+"id": "7",
+"name": "Group 7",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "7R",
+"name": "Seventh Round",
+"base_name": "Seventh Round",
+"is_group_stage": false
+},
+{
+"id": "7RE",
+"name": "7th round deciders",
+"base_name": "Seventh Round",
+"is_group_stage": false
+},
+{
+"id": "7RH",
+"name": "7th round 1st leg",
+"base_name": "Seventh Round",
+"is_group_stage": false
+},
+{
+"id": "7RR",
+"name": "7th round 2nd leg",
+"base_name": "Seventh Round",
+"is_group_stage": false
+},
+{
+"id": "8",
+"name": "Group 8",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "9",
+"name": "Group 9",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A",
+"name": "Group A",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A1",
+"name": "group A1",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A2",
+"name": "group A2",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A3",
+"name": "group A3",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A4",
+"name": "group A4",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A5",
+"name": "group A5",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A6",
+"name": "group A6",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A7",
+"name": "group A7",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A8",
+"name": "group A8",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "A9",
+"name": "group A9",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "AF",
+"name": "Round of 16",
+"base_name": "Round of 16",
+"is_group_stage": false
+},
+{
+"id": "AFE",
+"name": "Round of 16 Replay",
+"base_name": "Round of 16",
+"is_group_stage": false
+},
+{
+"id": "AFH",
+"name": "Last 16 1st Leg",
+"base_name": "Round of 16",
+"is_group_stage": false
+},
+{
+"id": "AFR",
+"name": "Last 16 2nd Leg",
+"base_name": "Round of 16",
+"is_group_stage": false
+},
+{
+"id": "B",
+"name": "Group B",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B1",
+"name": "group B1",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B2",
+"name": "group B2",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B3",
+"name": "group B3",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B4",
+"name": "group B4",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B5",
+"name": "group B5",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B6",
+"name": "group B6",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B7",
+"name": "group B7",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B8",
+"name": "group B8",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "B9",
+"name": "group B9",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "C",
+"name": "Group C",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "D",
+"name": "Group D",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "E",
+"name": "Group E",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "ESA",
+"name": "Relegation decider",
+"base_name": "Relegation decider",
+"is_group_stage": false
+},
+{
+"id": "F",
+"name": "Group F",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "FF",
+"name": "Final",
+"base_name": "Final",
+"is_group_stage": false
+},
+{
+"id": "FFH",
+"name": "Final 1st Leg",
+"base_name": "Final",
+"is_group_stage": false
+},
+{
+"id": "FFR",
+"name": "Final 2nd Leg",
+"base_name": "Final",
+"is_group_stage": false
+},
+{
+"id": "FG",
+"name": "Final Decider",
+"base_name": "Final",
+"is_group_stage": false
+},
+{
+"id": "FIH",
+"name": "Final Round First Leg",
+"base_name": "Final Round First Leg",
+"is_group_stage": false
+},
+{
+"id": "FIR",
+"name": "Final Round Second Leg",
+"base_name": "Final Round First Leg",
+"is_group_stage": false
+},
+{
+"id": "G",
+"name": "Group G",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "GP",
+"name": "Group Stage",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "H",
+"name": "Group H",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "HF",
+"name": "Semi-Finals",
+"base_name": "Semi-Finals",
+"is_group_stage": false
+},
+{
+"id": "HFE",
+"name": "Semi-Finals Deciders",
+"base_name": "Semi-Finals",
+"is_group_stage": false
+},
+{
+"id": "HFH",
+"name": "Semi-Finals 1st Leg",
+"base_name": "Semi-Finals",
+"is_group_stage": false
+},
+{
+"id": "HFR",
+"name": "Semi-Finals 2nd Leg",
+"base_name": "Semi-Finals",
+"is_group_stage": false
+},
+{
+"id": "I",
+"name": "Group I",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "J",
+"name": "Group J",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "K",
+"name": "Group K",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "L",
+"name": "Group L",
+"base_name": "Group Stage",
+"is_group_stage": true
+},
+{
+"id": "P5",
+"name": "5th place match",
+"base_name": "5th place match",
+"is_group_stage": false
+},
+{
+"id": "P7",
+"name": "Spiel um Platz Sieben",
+"base_name": "Spiel um Platz Sieben",
+"is_group_stage": false
+},
+{
+"id": "PD",
+"name": "Third Place Play-Off",
+"base_name": "Third Place Play-Off",
+"is_group_stage": false
+},
+{
+"id": "PDH",
+"name": "Third Place Play-Off 1st leg",
+"base_name": "Third Place Play-Off",
+"is_group_stage": false
+},
+{
+"id": "PDR",
+"name": "Third Place Play-Off 2nd leg",
+"base_name": "Third Place Play-Off",
+"is_group_stage": false
+},
+{
+"id": "PX",
+"name": "Platzierungsrunde",
+"base_name": "Platzierungsrunde",
+"is_group_stage": false
+},
+{
+"id": "QR",
+"name": "Qualifying Round",
+"base_name": "Qualifying Round",
+"is_group_stage": false
+},
+{
+"id": "QRE",
+"name": "qualification round deciders",
+"base_name": "Qualifying Round",
+"is_group_stage": false
+},
+{
+"id": "QRH",
+"name": "Qualifying Round 1st leg",
+"base_name": "Qualifying Round",
+"is_group_stage": false
+},
+{
+"id": "QRR",
+"name": "Qualifying Round 2nd leg",
+"base_name": "Qualifying Round",
+"is_group_stage": false
+},
+{
+"id": "RE1",
+"name": "Play Off 1st leg",
+"base_name": "relegation round",
+"is_group_stage": false
+},
+{
+"id": "RE2",
+"name": "Play Off 2st leg",
+"base_name": "relegation round",
+"is_group_stage": false
+},
+{
+"id": "REE",
+"name": "Relegation Final",
+"base_name": "relegation round",
+"is_group_stage": false
+},
+{
+"id": "SZ",
+"name": "Round of 32",
+"base_name": "Round of 32",
+"is_group_stage": false
+},
+{
+"id": "SZE",
+"name": "Round of 32",
+"base_name": "Round of 32",
+"is_group_stage": false
+},
+{
+"id": "SZH",
+"name": "Round of 32",
+"base_name": "Round of 32",
+"is_group_stage": false
+},
+{
+"id": "SZR",
+"name": "Round of 32",
+"base_name": "Round of 32",
+"is_group_stage": false
+},
+{
+"id": "VF",
+"name": "Quarter-Finals",
+"base_name": "Quarter-Finals",
+"is_group_stage": false
+},
+{
+"id": "VFE",
+"name": "Quarter-Finals Deciders",
+"base_name": "Quarter-Finals",
+"is_group_stage": false
+},
+{
+"id": "VFH",
+"name": "Quarter-Finals 1st Leg",
+"base_name": "Quarter-Finals",
+"is_group_stage": false
+},
+{
+"id": "VFR",
+"name": "Quarter-Finals 2nd Leg",
+"base_name": "Quarter-Finals",
+"is_group_stage": false
+},
+{
+"id": "ZR",
+"name": "intermediate stage",
+"base_name": "intermediate stage",
+"is_group_stage": false
+},
+{
+"id": "ZRE",
+"name": "intermediate stage deciders",
+"base_name": "intermediate stage",
+"is_group_stage": false
+},
+{
+"id": "ZRH",
+"name": "intermediate stage 1st leg",
+"base_name": "intermediate stage",
+"is_group_stage": false
+},
+{
+"id": "ZRR",
+"name": "intermediate stage 2nd leg",
+"base_name": "intermediate stage",
+"is_group_stage": false
+}
+],
+"licenses": []
+}
