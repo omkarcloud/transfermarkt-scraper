@@ -39,3 +39,16 @@ TRANSFERMARKT_WAF_FALLBACK = False
 def transfermarkt_proxy():
     """Proxy URL for one connection (None = direct)."""
     return TRANSFERMARKT_PROXY
+
+
+# ---- added by the sync: defaults for a direct run ----
+TRANSFERMARKT_GATEWAY_FAILURES = 2
+TRANSFERMARKT_GATEWAY_PAUSE = 600
+TRANSFERMARKT_GATEWAY_WINDOW = 60
+def burst_slots(share):
+    return share
+
+
+def transfermarkt_gateway_exit():
+    return None
+
